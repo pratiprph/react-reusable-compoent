@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Use component like this
+
+        <div>
+         <HelloWorld text="Pratip"  color="yellow"  width="200px" height="200px"/>
+         
+         <Button text="Pratip"  color="red" radius="20" width="50px" height="40px"/><br/><br/>
+         <InputElement placeholder="may i know who is this.." radius="10%" color="red"/>
+       </div>
+
 ## Available Scripts
 
 In the project directory, you can run:
